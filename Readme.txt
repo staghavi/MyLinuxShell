@@ -1,14 +1,10 @@
-ReadMe ---- myShell.c
+# ReadMe ---- myShell.c
+
+## Description
+* My first quick attempt at implementing a Linux shell in C.
+* Takes up to 3 pipes - '|'
 
 
-My first quick attempt at implementing a Linux Shell.
-
-Takes up to 3 pipes - '|'
-
-
-
-To do list:
-
-<< and >>
-
-cleaning up code layout (less repeated code more functions)
+## To dos:
+* << and >>
+* cleaning up
